@@ -1,0 +1,3 @@
+[submodule "fujinet-parts"]
+	path = fujinet-parts
+	url = https://github.com/barbeque/fujinet-parts.git
