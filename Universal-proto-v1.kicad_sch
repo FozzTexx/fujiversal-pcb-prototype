@@ -8163,7 +8163,7 @@
 		(uuid "05bd7ae6-096e-44cb-9cd3-f7dcf50e40ab")
 	)
 	(label "GP33_ISA_CLK"
-		(at 237.49 63.5 0)
+		(at 237.49 68.58 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8183,7 +8183,7 @@
 		(uuid "0cf4c83d-b197-45ef-8c43-81451cc03b69")
 	)
 	(label "GP29_ISA_MEMW"
-		(at 237.49 73.66 0)
+		(at 237.49 63.5 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8303,12 +8303,12 @@
 		(uuid "14e56932-08e2-48f9-8679-c4c50e34c333")
 	)
 	(label "GP7_ISA_A7"
-		(at 224.79 43.18 180)
+		(at 237.49 35.56 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "1568f1d9-90e1-4c18-90d1-db845b0f17a2")
 	)
@@ -8393,7 +8393,7 @@
 		(uuid "1ea2d8b3-4de9-4086-8e63-0ef8db8954c0")
 	)
 	(label "GP27_ISA_D7"
-		(at 237.49 78.74 0)
+		(at 237.49 60.96 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8403,7 +8403,7 @@
 		(uuid "1ec77e73-f1d5-434a-8db8-05f9db62a997")
 	)
 	(label "GP43"
-		(at 237.49 38.1 0)
+		(at 237.49 81.28 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8443,7 +8443,7 @@
 		(uuid "20fce909-bc36-40a6-a779-af840f9c8cad")
 	)
 	(label "GP14_ISA_A14"
-		(at 224.79 60.96 180)
+		(at 224.79 43.18 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8663,12 +8663,12 @@
 		(uuid "4597dde4-7d01-403c-a410-81293cd8373e")
 	)
 	(label "GP32_ISA_AEN"
-		(at 237.49 66.04 0)
+		(at 224.79 66.04 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "46838446-1905-4f45-b15a-5136c9e6e2f9")
 	)
@@ -8733,12 +8733,12 @@
 		(uuid "52cc4c90-8554-4fcc-9d42-f3f47a3a6005")
 	)
 	(label "GP24_ISA_D4"
-		(at 237.49 86.36 0)
+		(at 224.79 55.88 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "5369c195-7bc6-4f4d-a54a-9130cba1db25")
 	)
@@ -8793,12 +8793,12 @@
 		(uuid "570eb0e2-b8e0-43a6-b1fb-bf2cc096db07")
 	)
 	(label "GP34_ISA_ALE"
-		(at 237.49 60.96 0)
+		(at 224.79 68.58 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "5793d945-6c2e-4ad4-b75d-8d7fd11aca9e")
 	)
@@ -8863,12 +8863,12 @@
 		(uuid "5be56b57-b9f4-4a8e-9316-97ef195f8f67")
 	)
 	(label "GP17_ISA_A17"
-		(at 224.79 68.58 180)
+		(at 237.49 48.26 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "5bfe762d-1cd5-4e07-8590-9f7a9c5f4cff")
 	)
@@ -8883,7 +8883,7 @@
 		(uuid "5c9d3a56-383a-4254-b5a8-f0b159a7a528")
 	)
 	(label "GP20_ISA_D0"
-		(at 224.79 76.2 180)
+		(at 224.79 50.8 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8893,7 +8893,7 @@
 		(uuid "5d05100f-5f45-4b65-8b94-32e2e4504d6d")
 	)
 	(label "GP18_ISA_A18"
-		(at 224.79 71.12 180)
+		(at 224.79 48.26 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8903,12 +8903,12 @@
 		(uuid "5f41eb07-be1e-401f-bc4f-5ac132682bf1")
 	)
 	(label "GP9_ISA_A9"
-		(at 224.79 48.26 180)
+		(at 237.49 38.1 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "5ffe80f0-a99c-4e73-b4a9-78d9301f7529")
 	)
@@ -8923,12 +8923,12 @@
 		(uuid "600abbea-5ce7-4305-8f90-8eda1941433e")
 	)
 	(label "GP40"
-		(at 237.49 45.72 0)
+		(at 224.79 76.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "60a636b8-b9af-4ddd-bf92-982b2135e3d2")
 	)
@@ -9073,12 +9073,12 @@
 		(uuid "68853ba7-d780-4958-9c9c-e4e4fe21682b")
 	)
 	(label "GP23_ISA_D3"
-		(at 224.79 83.82 180)
+		(at 237.49 55.88 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "68b1b16f-560c-403d-a701-488ed41bfdc4")
 	)
@@ -9103,12 +9103,12 @@
 		(uuid "6ac27c77-fbf2-4f45-8581-3487210b036a")
 	)
 	(label "GP19_ISA_A19"
-		(at 224.79 73.66 180)
+		(at 237.49 50.8 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "6b20fd56-d79b-45bf-9850-3f617b326523")
 	)
@@ -9163,7 +9163,7 @@
 		(uuid "6f6d187c-f96a-44a3-9a31-b4178af7a773")
 	)
 	(label "GP45"
-		(at 237.49 33.02 0)
+		(at 237.49 83.82 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9223,12 +9223,12 @@
 		(uuid "7461000f-680e-43e3-8458-f8c54d9f23c9")
 	)
 	(label "GP3_ISA_A3"
-		(at 224.79 33.02 180)
+		(at 237.49 30.48 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "747f889f-a06e-4e76-889d-76162e0bc77c")
 	)
@@ -9243,7 +9243,7 @@
 		(uuid "761f8aa2-3bf5-45c2-a32d-84571f54c7d1")
 	)
 	(label "GP4_ISA_A4"
-		(at 224.79 35.56 180)
+		(at 224.79 30.48 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9273,12 +9273,12 @@
 		(uuid "7b4c9171-78a5-4459-b7b2-64c0f4d6dbb4")
 	)
 	(label "GP30_ISA_IOR"
-		(at 237.49 71.12 0)
+		(at 224.79 63.5 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "7d71e904-6a52-4e5d-8aaa-a35d97714490")
 	)
@@ -9313,7 +9313,7 @@
 		(uuid "82c49179-72e9-489f-b961-70c4312f9536")
 	)
 	(label "GP39"
-		(at 237.49 48.26 0)
+		(at 237.49 76.2 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9323,12 +9323,12 @@
 		(uuid "82ea368e-61de-46cd-8e95-5dea156dc752")
 	)
 	(label "GP46"
-		(at 237.49 30.48 0)
+		(at 224.79 83.82 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "845e5a52-032d-4cd0-a1b9-889cad6f2452")
 	)
@@ -9343,7 +9343,7 @@
 		(uuid "86737cc2-9039-4463-b0c6-f588ffe5e991")
 	)
 	(label "GP37"
-		(at 237.49 53.34 0)
+		(at 237.49 73.66 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9413,22 +9413,22 @@
 		(uuid "8f97dd1b-1951-4a0c-bff7-8e7a6d4093b0")
 	)
 	(label "GP1_ISA_A1"
-		(at 224.79 27.94 180)
+		(at 237.49 27.94 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "9065a719-b52c-4f37-8674-747dd9099b87")
 	)
 	(label "GP13_ISA_A13"
-		(at 224.79 58.42 180)
+		(at 237.49 43.18 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "90e57b1c-a53f-49f0-9265-d1841c3b2f46")
 	)
@@ -9463,12 +9463,12 @@
 		(uuid "92473861-fadc-4087-854f-697d61d8c9e1")
 	)
 	(label "GP44"
-		(at 237.49 35.56 0)
+		(at 224.79 81.28 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "936d59df-0f71-4fde-9d4b-2cbdac78163b")
 	)
@@ -9503,12 +9503,12 @@
 		(uuid "971bf9d5-538d-4143-8eda-380d629ea4d3")
 	)
 	(label "GP21_ISA_D1"
-		(at 224.79 78.74 180)
+		(at 237.49 53.34 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "9916cb1c-e846-49ed-b164-a0fb141adc52")
 	)
@@ -9523,22 +9523,22 @@
 		(uuid "99fa720f-66cf-4219-b364-6a728200eb97")
 	)
 	(label "GP26_ISA_D6"
-		(at 237.49 81.28 0)
+		(at 224.79 58.42 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "9bc2419f-cf27-45c5-82f5-94acba335058")
 	)
 	(label "GP28_ISA_MEMR"
-		(at 237.49 76.2 0)
+		(at 224.79 60.96 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "9c8626b7-6d47-4635-b059-ee632a2ccfb4")
 	)
@@ -9663,7 +9663,7 @@
 		(uuid "a8d69901-67b0-41cd-a476-b86a842fa21b")
 	)
 	(label "GP25_ISA_D5"
-		(at 237.49 83.82 0)
+		(at 237.49 58.42 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9703,12 +9703,12 @@
 		(uuid "a9661de5-b288-485a-89b2-44e8642b7899")
 	)
 	(label "GP11_ISA_A11"
-		(at 224.79 53.34 180)
+		(at 237.49 40.64 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "aa48e281-8dd7-4904-a0d2-5d2466433363")
 	)
@@ -9853,7 +9853,7 @@
 		(uuid "b768cdce-e305-450f-a8a4-3db1c65addce")
 	)
 	(label "GP41"
-		(at 237.49 43.18 0)
+		(at 237.49 78.74 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9873,12 +9873,12 @@
 		(uuid "b89dd975-6f77-42b7-92d4-b24f0530de2e")
 	)
 	(label "GP38"
-		(at 237.49 50.8 0)
+		(at 224.79 73.66 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "b8d5e157-b816-41ca-87ce-d89a7e70bba9")
 	)
@@ -9913,7 +9913,7 @@
 		(uuid "bc5ae417-d045-4d9a-8231-bcd2259a3d09")
 	)
 	(label "GP6_ISA_A6"
-		(at 224.79 40.64 180)
+		(at 224.79 33.02 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9963,7 +9963,7 @@
 		(uuid "c7774ca1-36ef-49d5-acff-c0d3303b6710")
 	)
 	(label "GP12_ISA_A12"
-		(at 224.79 55.88 180)
+		(at 224.79 40.64 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10003,7 +10003,7 @@
 		(uuid "c8119f7d-dc2d-4482-a7c4-2cc4f58b6a4c")
 	)
 	(label "GP22_ISA_D2"
-		(at 224.79 81.28 180)
+		(at 224.79 53.34 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10013,7 +10013,7 @@
 		(uuid "cbd8c883-6beb-4837-957e-2a1633fb8687")
 	)
 	(label "GP8_ISA_A8"
-		(at 224.79 45.72 180)
+		(at 224.79 35.56 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10043,12 +10043,12 @@
 		(uuid "cfa76111-1f73-453d-8d23-a49bb0a39c5c")
 	)
 	(label "GP5_ISA_A5"
-		(at 224.79 38.1 180)
+		(at 237.49 33.02 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "d159be94-a6bc-4229-b434-77b149f21047")
 	)
@@ -10113,7 +10113,7 @@
 		(uuid "d5be5303-97ad-4f1c-967e-67e631ef349e")
 	)
 	(label "GP31_ISA_IOW"
-		(at 237.49 68.58 0)
+		(at 237.49 66.04 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10123,7 +10123,7 @@
 		(uuid "d6be0e05-f53e-4434-b0c1-65583057482b")
 	)
 	(label "GP47"
-		(at 237.49 27.94 0)
+		(at 237.49 86.36 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10313,7 +10313,7 @@
 		(uuid "eacd2eec-4393-4b78-94fa-6e4948439881")
 	)
 	(label "GP2_ISA_A2"
-		(at 224.79 30.48 180)
+		(at 224.79 27.94 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10323,7 +10323,7 @@
 		(uuid "ec2b0f92-1107-425b-9fac-f14e6030a7d5")
 	)
 	(label "GP10_ISA_A10"
-		(at 224.79 50.8 180)
+		(at 224.79 38.1 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10343,7 +10343,7 @@
 		(uuid "edad6e40-02d1-4be2-b3eb-30cb42148a7b")
 	)
 	(label "GP16_ISA_A16"
-		(at 224.79 66.04 180)
+		(at 224.79 45.72 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10353,7 +10353,7 @@
 		(uuid "ee466322-a1e9-4352-af09-a44ac7769b81")
 	)
 	(label "GP35_ISA_RESET"
-		(at 237.49 58.42 0)
+		(at 237.49 71.12 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10403,22 +10403,22 @@
 		(uuid "f1246444-67bf-4314-911b-9ddf0f7cdd10")
 	)
 	(label "GP36"
-		(at 237.49 55.88 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "f30c300f-c9f2-45d2-81aa-ece35f0b0a8c")
-	)
-	(label "GP15_ISA_A15"
-		(at 224.79 63.5 180)
+		(at 224.79 71.12 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
+		)
+		(uuid "f30c300f-c9f2-45d2-81aa-ece35f0b0a8c")
+	)
+	(label "GP15_ISA_A15"
+		(at 237.49 45.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
 		)
 		(uuid "f3caf1a6-a7c3-450f-a904-5c91655d3467")
 	)
@@ -10483,12 +10483,12 @@
 		(uuid "fd37cbb4-d746-401b-8630-e637bbd9db6a")
 	)
 	(label "GP42"
-		(at 237.49 40.64 0)
+		(at 224.79 78.74 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "fe291d60-5656-449e-a98c-412d7d111549")
 	)
