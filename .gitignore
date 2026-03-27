@@ -1,0 +1,8 @@
+*.lck
+\#*\#
+*-backups
+*.kicad_prl
+*.dsn
+fp-info-cache
+fp-lib-table
+sym-lib-table
