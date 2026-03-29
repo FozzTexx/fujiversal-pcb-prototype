@@ -93,7 +93,7 @@
 			(type solid)
 		)
 		(layer "Edge.Cuts")
-		(uuid "2af6bb3b-b80d-4a5a-971c-ed37b48dbc06")
+		(uuid "49677770-f496-4c7f-bda3-8991a91a0409")
 	)
 	(fp_arc
 		(start 1.524 0)
@@ -115,7 +115,7 @@
 			(type solid)
 		)
 		(layer "Edge.Cuts")
-		(uuid "b176a50a-6d4b-454c-805c-49c31822cf69")
+		(uuid "3e79a3e3-087e-493a-aaa0-ebc21492cb13")
 	)
 	(fp_arc
 		(start 53.086 -1.27)
