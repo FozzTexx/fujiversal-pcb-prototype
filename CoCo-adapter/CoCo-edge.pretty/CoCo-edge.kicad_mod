@@ -139,6 +139,28 @@
 		(layer "F.CrtYd")
 		(uuid "242b75d2-9db8-46b3-838c-3fa735e05d20")
 	)
+	(fp_circle
+		(center -9.83 -18.415)
+		(end -5.393504 -18.415)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "ff5dacd0-4b84-46ff-a19b-cbd677da35a3")
+	)
+	(fp_circle
+		(center 63.17 -18.415)
+		(end 67.606496 -18.415)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "837f4892-6d09-4fb9-ba1b-530a9bc4e08d")
+	)
 	(fp_text user "1"
 		(at 2.54 -10.795 0)
 		(unlocked yes)
@@ -524,6 +546,22 @@
 		(solder_paste_margin 0)
 		(thermal_bridge_angle 0)
 		(uuid "d50fe354-f4b1-452f-94fd-5da94301cbf4")
+	)
+	(pad "41" thru_hole circle
+		(at -9.83 -18.415)
+		(size 8 8)
+		(drill 6.35)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "9a325828-49de-4657-ac2d-03d75c8e92ab")
+	)
+	(pad "42" thru_hole circle
+		(at 63.17 -18.415)
+		(size 8 8)
+		(drill 6.35)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "4cc4dfa3-f2dd-43f9-adfc-7a2613c9d77b")
 	)
 	(zone
 		(net 0)
@@ -1867,6 +1905,13 @@
 			(pts
 				(xy 51.435 0) (xy 53.34 0) (xy 53.34 -10.16) (xy 51.435 -10.16)
 			)
+		)
+	)
+	(group ""
+		(uuid "f76eceef-aa25-4ee0-a1a4-83ca94ce8cca")
+		(members "105ebdd5-3a49-44d9-aff7-f971951d42b6" "4cc4dfa3-f2dd-43f9-adfc-7a2613c9d77b"
+			"837f4892-6d09-4fb9-ba1b-530a9bc4e08d" "9a325828-49de-4657-ac2d-03d75c8e92ab"
+			"ff5dacd0-4b84-46ff-a19b-cbd677da35a3"
 		)
 	)
 	(embedded_fonts no)
