@@ -12044,6 +12044,16 @@
 		)
 		(uuid "f6a20101-5916-47b4-97c4-3d2b9df80adb")
 	)
+	(label "VCC_D"
+		(at 20.32 109.22 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f846dc84-95db-481d-9d86-9faeb463881d")
+	)
 	(label "DB6"
 		(at 44.45 35.56 0)
 		(effects
@@ -12250,10 +12260,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1ac")
+			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1ad")
 		)
 		(pin "1"
-			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e1")
+			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e2")
 		)
 		(instances
 			(project "Universal-proto-v1"
@@ -12320,10 +12330,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1ac")
+			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1ae")
 		)
 		(pin "1"
-			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e1")
+			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e3")
 		)
 		(instances
 			(project "Universal-proto-v1"
@@ -12390,10 +12400,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1ac")
+			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1af")
 		)
 		(pin "1"
-			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e1")
+			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e4")
 		)
 		(instances
 			(project "Universal-proto-v1"
@@ -12460,10 +12470,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1ac")
+			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1b0")
 		)
 		(pin "1"
-			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e1")
+			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e5")
 		)
 		(instances
 			(project "Universal-proto-v1"
@@ -12721,10 +12731,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1ac")
+			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1b1")
 		)
 		(pin "1"
-			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e1")
+			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e6")
 		)
 		(instances
 			(project "Universal-proto-v1"
@@ -12791,10 +12801,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1ac")
+			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1b2")
 		)
 		(pin "1"
-			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e1")
+			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e7")
 		)
 		(instances
 			(project "Universal-proto-v1"
@@ -12984,10 +12994,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1ac")
+			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1b3")
 		)
 		(pin "1"
-			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e1")
+			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e8")
 		)
 		(instances
 			(project "Universal-proto-v1"
@@ -13450,10 +13460,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1ac")
+			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1b4")
 		)
 		(pin "1"
-			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e1")
+			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e9")
 		)
 		(instances
 			(project "Universal-proto-v1"
@@ -13520,10 +13530,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1ac")
+			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1b5")
 		)
 		(pin "1"
-			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e1")
+			(uuid "b482ebf7-1efa-48ba-b082-850b44e854ea")
 		)
 		(instances
 			(project "Universal-proto-v1"
@@ -13978,10 +13988,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1ac")
+			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1b6")
 		)
 		(pin "1"
-			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e1")
+			(uuid "b482ebf7-1efa-48ba-b082-850b44e854eb")
 		)
 		(instances
 			(project "Universal-proto-v1"
@@ -14048,10 +14058,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1ac")
+			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1b7")
 		)
 		(pin "1"
-			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e1")
+			(uuid "b482ebf7-1efa-48ba-b082-850b44e854ec")
 		)
 		(instances
 			(project "Universal-proto-v1"
@@ -14118,10 +14128,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1ac")
+			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1b8")
 		)
 		(pin "1"
-			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e1")
+			(uuid "b482ebf7-1efa-48ba-b082-850b44e854ed")
 		)
 		(instances
 			(project "Universal-proto-v1"
@@ -14188,10 +14198,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1ac")
+			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1b9")
 		)
 		(pin "1"
-			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e1")
+			(uuid "b482ebf7-1efa-48ba-b082-850b44e854ee")
 		)
 		(instances
 			(project "Universal-proto-v1"
@@ -14325,10 +14335,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1ac")
+			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1ba")
 		)
 		(pin "1"
-			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e1")
+			(uuid "b482ebf7-1efa-48ba-b082-850b44e854ef")
 		)
 		(instances
 			(project "Universal-proto-v1"
@@ -14767,10 +14777,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1ac")
+			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1bb")
 		)
 		(pin "1"
-			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e1")
+			(uuid "b482ebf7-1efa-48ba-b082-850b44e854f0")
 		)
 		(instances
 			(project "Universal-proto-v1"
@@ -14837,10 +14847,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1ac")
+			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1bc")
 		)
 		(pin "1"
-			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e1")
+			(uuid "b482ebf7-1efa-48ba-b082-850b44e854f1")
 		)
 		(instances
 			(project "Universal-proto-v1"
@@ -14859,10 +14869,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6eb742a2-ad72-44b8-9423-adc33f6d29e9")
 		(property "Reference" "J9"
-			(at 26.67 107.95 0)
+			(at 26.67 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14875,6 +14884,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical"
@@ -15229,10 +15239,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1ac")
+			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1bd")
 		)
 		(pin "1"
-			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e1")
+			(uuid "b482ebf7-1efa-48ba-b082-850b44e854f2")
 		)
 		(instances
 			(project "Universal-proto-v1"
@@ -15369,10 +15379,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1ac")
+			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1be")
 		)
 		(pin "1"
-			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e1")
+			(uuid "b482ebf7-1efa-48ba-b082-850b44e854f3")
 		)
 		(instances
 			(project "Universal-proto-v1"
@@ -15509,10 +15519,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1ac")
+			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1bf")
 		)
 		(pin "1"
-			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e1")
+			(uuid "b482ebf7-1efa-48ba-b082-850b44e854f4")
 		)
 		(instances
 			(project "Universal-proto-v1"
@@ -15579,10 +15589,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1ac")
+			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1c0")
 		)
 		(pin "1"
-			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e1")
+			(uuid "b482ebf7-1efa-48ba-b082-850b44e854f5")
 		)
 		(instances
 			(project "Universal-proto-v1"
@@ -15719,10 +15729,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1ac")
+			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1c1")
 		)
 		(pin "1"
-			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e1")
+			(uuid "b482ebf7-1efa-48ba-b082-850b44e854f6")
 		)
 		(instances
 			(project "Universal-proto-v1"
@@ -15856,10 +15866,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1ac")
+			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1c2")
 		)
 		(pin "1"
-			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e1")
+			(uuid "b482ebf7-1efa-48ba-b082-850b44e854f7")
 		)
 		(instances
 			(project "Universal-proto-v1"
@@ -15996,10 +16006,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1ac")
+			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1c3")
 		)
 		(pin "1"
-			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e1")
+			(uuid "b482ebf7-1efa-48ba-b082-850b44e854f8")
 		)
 		(instances
 			(project "Universal-proto-v1"
@@ -16066,10 +16076,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1ac")
+			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1c4")
 		)
 		(pin "1"
-			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e1")
+			(uuid "b482ebf7-1efa-48ba-b082-850b44e854f9")
 		)
 		(instances
 			(project "Universal-proto-v1"
@@ -16413,10 +16423,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1ac")
+			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1c5")
 		)
 		(pin "1"
-			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e1")
+			(uuid "b482ebf7-1efa-48ba-b082-850b44e854fa")
 		)
 		(instances
 			(project "Universal-proto-v1"
@@ -16483,10 +16493,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1ac")
+			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1c6")
 		)
 		(pin "1"
-			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e1")
+			(uuid "b482ebf7-1efa-48ba-b082-850b44e854fb")
 		)
 		(instances
 			(project "Universal-proto-v1"
@@ -16553,10 +16563,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1ac")
+			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1c7")
 		)
 		(pin "1"
-			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e1")
+			(uuid "b482ebf7-1efa-48ba-b082-850b44e854fc")
 		)
 		(instances
 			(project "Universal-proto-v1"
@@ -16623,10 +16633,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1ac")
+			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1c8")
 		)
 		(pin "1"
-			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e1")
+			(uuid "b482ebf7-1efa-48ba-b082-850b44e854fd")
 		)
 		(instances
 			(project "Universal-proto-v1"
@@ -16693,10 +16703,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "90d2b66f-a9fb-42f0-83f1-bfa67ce12417")
+			(uuid "90d2b66f-a9fb-42f0-83f1-bfa67ce12418")
 		)
 		(pin "1"
-			(uuid "a69f972a-8a0e-4a92-9c02-f484587b5178")
+			(uuid "a69f972a-8a0e-4a92-9c02-f484587b5179")
 		)
 		(instances
 			(project "Universal-proto-v1"
@@ -16763,10 +16773,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1ac")
+			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1c9")
 		)
 		(pin "1"
-			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e1")
+			(uuid "b482ebf7-1efa-48ba-b082-850b44e854fe")
 		)
 		(instances
 			(project "Universal-proto-v1"
@@ -16957,10 +16967,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1ac")
+			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1ca")
 		)
 		(pin "1"
-			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e1")
+			(uuid "b482ebf7-1efa-48ba-b082-850b44e854ff")
 		)
 		(instances
 			(project "Universal-proto-v1"
@@ -17027,10 +17037,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "90d2b66f-a9fb-42f0-83f1-bfa67ce12417")
+			(uuid "90d2b66f-a9fb-42f0-83f1-bfa67ce12419")
 		)
 		(pin "1"
-			(uuid "a69f972a-8a0e-4a92-9c02-f484587b5178")
+			(uuid "a69f972a-8a0e-4a92-9c02-f484587b517a")
 		)
 		(instances
 			(project "Universal-proto-v1"
@@ -17097,10 +17107,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1ac")
+			(uuid "9f0b44cf-c711-48e3-9e6f-eac5869fa1cb")
 		)
 		(pin "1"
-			(uuid "b482ebf7-1efa-48ba-b082-850b44e854e1")
+			(uuid "b482ebf7-1efa-48ba-b082-850b44e85500")
 		)
 		(instances
 			(project "Universal-proto-v1"

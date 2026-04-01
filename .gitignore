@@ -8,3 +8,4 @@ fp-lib-table
 sym-lib-table
 *.bak
 _autosave-*
+.DS_Store
