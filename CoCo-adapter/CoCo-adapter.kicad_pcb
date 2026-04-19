@@ -9757,7 +9757,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "v2026-MAR-31"
+	(gr_text "v2026-APR-18"
 		(at 101.565 83.947 0)
 		(layer "F.SilkS")
 		(uuid "b9962717-0ddb-4238-a325-41902daaf478")
@@ -9997,7 +9997,7 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "SND"
+	(gr_text "E"
 		(at 83.0072 88.0364 90)
 		(layer "B.SilkS")
 		(uuid "1511ffb0-d6d0-4eac-bbda-3d3cfbaac6e3")
