@@ -25111,7 +25111,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "GP5_ISA_D5"
+	(gr_text "GP25_ISA_D5"
 		(at 178.74 106.35 90)
 		(layer "F.SilkS")
 		(uuid "39589808-be59-43a9-8d8b-444fd78e6399")
